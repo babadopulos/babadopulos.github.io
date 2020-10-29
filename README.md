@@ -1,2 +1,2 @@
 # tail-cmp-demo
-tail.digital CMP - cookie management platform - Demo
+cmp.tail.digital CMP - cookie management platform - Demo
